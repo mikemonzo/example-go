@@ -1,7 +1,9 @@
 go 1.24.0
 
 use (
+	./example-http
 	./example/hello
+	./gowiki
 	./hello
 	./web-service-gin
 )
